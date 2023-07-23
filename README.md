@@ -14,7 +14,7 @@ SyncMate is an autonomous AI agent developed during the AGI House hackathon on a
 
 ## Introduction
 
-SyncMate is a sophisticated AI agent designed to connect to various social media and communications channels, currently supporting Slack and Bard queries. It actively tracks updates from your network and provides you with insightful summaries, and can even answer your questions about your network and the people within it. With SyncMate, you have an autonomous co-pilot to assist you in making the most out of your social interactions.
+SyncMate is an AI agent designed to connect to various social media and communications channels, currently supporting Slack and Bard queries. It actively tracks updates from your network and provides you with insightful summaries, and can even answer your questions about your network and the people within it. With SyncMate, you have an autonomous co-pilot to assist you in making the most out of your social interactions.
 
 ## Features
 
