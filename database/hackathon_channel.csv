@@ -1,0 +1,117 @@
+user,text,ts
+Rocky Yu,Dinner will be ready in 20min or so ,2023-07-22 17:32:58
+Rocky Yu,Picking up food now ,2023-07-22 17:32:42
+Eduardo Reis,"Hey everyone, letting you know that few emails from <http://llama-api.com|llama-api.com> are going to spam for some people, if you didn’t get the invite, please check you spam box.",2023-07-22 16:53:27
+Robert Nowell,"Hi folks, anyone want an extra pair of hands to test / improve prompts? Feel free to message",2023-07-22 16:15:22
+Ron Bodkin,"Hi all - I wanted to share a link our new open source framework for building with collaborating agents, Council: <https://github.com/chain-ml/council> - I'd love to get feedback and be happy to answer questions if you try it out.",2023-07-22 16:12:22
+Eduardo Reis,"We are giving credits for teams running Llama API - the first implementation of functions on open-source models - Just go to the website <https://llama-api.com>, register there and send your registered email (and idea if you wish) to the <https://discord.gg/sxcd9hfbkJ|LlamaAPI discord> channel “agi-hackathon”. Looking forward to see what can be built with Functions on open-source models :fire::rocket:",2023-07-22 15:59:19
+Harrison Chase,"sorry i posted in the wrong channel!
+
+Excited to see what gets built today! As mentioned, we'll be giving access to LangSmith (<https://smith.langchain.com/>) to all participants. Use access code `langsmith_hackathon_agi` and ill be around all afternoon (currently in the foyer at the front) to answer any questions",2023-07-22 15:46:11
+Alex Reibman,Where can we get langsmith access? We’re using langchain to build our agent and want to check it out,2023-07-22 15:18:22
+Jack,"I have been working on a <https://github.com/jackmpcollins/magentic|Python package >`magentic` that makes using openai function calling as easy as writing python function signatures. My goal today is to have one project use this (it could be yours!). As Harrison said earlier OpenAI function calling and custom prompts are the best tools to use for your hackathon project, and `magentic` is built to enable exactly that! <https://github.com/jackmpcollins/magentic>",2023-07-22 15:02:25
+Saurabh Misra,Is there free OpenAI API keys available for this hackathon?,2023-07-22 14:43:16
+Alex Reibman,"We’re building Travel Agent-- Agent that automatically creates frequent flier number accounts for you. If you’re down to work together, we’re by the koi pond",2023-07-22 14:30:16
+Div Garg,"<!channel> Instructions for using the *MultiOn API*:
+• Please come to the desks near the presentation area for signing our Hackathon Participation form &amp; getting any support
+• You can directly use MultiOn from *Langchain*: <https://python.langchain.com/docs/modules/agents/toolkits/multion>
+• You can also check our API examples and also build custom agents directly using our *python &amp; js sdk*s : <https://github.com/MULTI-ON/api>
+• Here's an example agent built with MultiOn API to scrape information online &amp; send back a screenshot: <https://github.com/MULTI-ON/api/blob/main/examples/Multion_api_example.ipynb>
+• You can find *documentation* &amp; installation instructions for MultiOn here: <https://docs.multion.ai/>
+• Finally we are building a *Skills Marketplace* for MultiOn and please reach out to us if you want to help build it :star-struck:",2023-07-22 14:18:42
+Jackson Jesionowski,"Been working on creating a strong multi-action-agent.
+
+A week ago I watched a friend copying prompts and using GPT to answer questions for an accelerator, said he planned to apply to every accelerator and incubator and pre-seed firm, had a link list of 1,200 different.
+
+I thought that had to have been automated already, but came up with nothing. Thus working on a complete AutoFormFiller today, working on optimizing it, sample demo below. DM me to join up / help.
+
+We first evaluate if the data file uploaded will provide a good answer, and when it doesn't have the data, it prompts user entry, and saves the response for future responses",2023-07-22 14:01:24
+Jackson Jesionowski,"Also quick idea for anyone searching, that I plan to explore in the future, I've used applications like UbotStudio and Zennoposter which are no-code browser automation tools, they include multi-threading, headless browsing, captcha breaking. Would love to see an LLM agent built on top of those platforms. Seems it would take the multi-action-agent space much further by building on top of these systems.",2023-07-22 14:00:07
+Bill Sun,Today excited to solve the dataset curation problem together,2023-07-22 13:39:37
+Bill Sun,"A quick introduction: I was Stanford AI PhD, worked in Algo trading as a Portfolio manager last 4 years, currently doing a new startup on AI Agent and vertical large model for financial investment, called Generative Alpha",2023-07-22 13:39:16
+Bill Sun,,2023-07-22 13:35:53
+Bill Sun,"Bill Sun again, our Team CREATE YOUR DATASET FOR YOUR OWN AI  is in the SUN Room here:",2023-07-22 13:35:36
+Jazear Brooks,"I'm working on Communiverse - AI Agent Orchestration Layer
+
+It's an ongoing conversation among multiple humans and multiple AIs.  It can be used for application development, entertainment, social cohesion, or anything else for which a group chat would be created.  Sif Messenger enables cognition from the vantage point of groups of users, including the network as a whole and subject-based groups",2023-07-22 13:28:30
+Saurabh Misra,"Hey all, I'm building codeflash - a bot that Autonomously optimizes the performance of your python program. Please ping me to team up!",2023-07-22 13:26:56
+Bill Sun,Feel free to come and join us!,2023-07-22 13:26:05
+Bill Sun,"Hey this is Bill Sun on creating your dataset for your OWN AI project, we sit in the sun Room",2023-07-22 13:25:53
+Cameron mostoufi,Developing a tool to aid hardware engineers in the industry reduces lead time by efficiently reviewing technical spec sheets and pinpointing necessary additional components via a streamlined UI and swift engineering feedback. Called hardware help agent ,2023-07-22 13:25:18
+Lina Colucci,"We’re building a Mr-Beast-Bot :robot_face:
+It’ll be an agent that finds people on Twitter and Venmo’s them money if they do certain things (like write the best Mr Beast Haiku, send their favorite Mr. Beast Video, etc). 
+Looking for 2-3 folks to join our team. Lots of fun stuff to build for this project / social experiment! ",2023-07-22 13:21:26
+greg tanaka,Let me know if you are interested in building an agent for raising political donations. A large and growing market of $30B/yr. ,2023-07-22 13:18:03
+Vishnu Rajan Tejus,what are the prizes?,2023-07-22 13:17:54
+Lei Zhao,"If you are interested in *Knowledge agent* or *Fact Agent*, please join the <#C05K059UMEU|knowledge-fact-agent> ! ",2023-07-22 13:16:43
+Simon Suo,"Hey folks, Simon from LlamaIndex here. Here's the slides on <https://docs.google.com/presentation/d/1S_0bbvXAUOz0bVua3vmKesq4cjfWfhOpQ7StwkzrLUM/edit#slide=id.p|building >*<https://docs.google.com/presentation/d/1S_0bbvXAUOz0bVua3vmKesq4cjfWfhOpQ7StwkzrLUM/edit#slide=id.p|data agents>*<https://docs.google.com/presentation/d/1S_0bbvXAUOz0bVua3vmKesq4cjfWfhOpQ7StwkzrLUM/edit#slide=id.p| with LlamaIndex> in case you missed it.
+I'll be here most of the afternoon, would love to meet and chat. Excited to see what everyone builds!",2023-07-22 13:12:12
+Allen Liu,"let me know if someone is interested in AI recruiter project, feel free to DM me",2023-07-22 13:08:33
+Travis Cline,"Hi all, <https://github.com/tmc|tmc> here. Interested in getting more agentic input into product and software development. Also interested in healthcare applications.
+
+Program synthesis and multi agent simulation are on my mind. I previously built AutoPM and most recently <https://d2labs2.tmc.dev/#|d2labs> at the scale hack. 
+
+<https://github.com/tmc/smol-dev-go|smol-dev-go> is a clone of swyx’s smol dev using my Go port of langchain: <https://github.com/tmc/langchaingo|https://github.com/tmc/langchaingo>
+
+Also interested in macOS automation and assistive tools as demonstrated by <https://github.com/tmc/righthand|https://github.com/tmc/righthand>
+
+Tech agnostic but have a starter kit for Hackathons here: <https://github.com/tmc/hackathon-starter|https://github.com/tmc/hackathon-starter>
+
+I’m still in a cast but can still hack!",2023-07-22 12:11:47
+Rocky Yu,use the Project Proposal tab,2023-07-22 12:09:41
+Jeremy Nixon,<!channel> Sign up for a lightning talk by adding your name to the event spreadsheet! <https://docs.google.com/spreadsheets/d/1opNYhGEaIADul0V1hR4_0N8TyfnS9PzGCXnS8aptk3A/edit|https://docs.google.com/spreadsheets/d/1opNYhGEaIADul0V1hR4_0N8TyfnS9PzGCXnS8aptk3A/edit>,2023-07-22 12:05:04
+Gurkaran,anyone streaming the talks? those of us still en route would be grateful,2023-07-22 12:03:06
+Mike,"I’m very open to hacking and collaborating with others re the above ideas! If you have a compelling concept related to the above, or if the above is interesting to you (and you’re a big Typescript fan), please DM me! or respond to this thread :)",2023-07-22 10:58:34
+Mike,"As part of strong type systems in Typescript in particular, I also have the `<https://github.com/poteat/hkt-toolbelt> project, which is a composable framework for higher-kinded types in Typescript.",2023-07-22 10:57:40
+Mike,"As well, roughly I’m also interested in integrating strong type systems with LLMs - strong type systems (in the realm of proof-based languages, i.e. Lean from Microsoft, Coq, Idris, Ada, etc.) have the capability to ensure that the code that LLMs are generated is correct (via formal postconditions)",2023-07-22 10:57:08
+Mike,"Hey there all! I’m currently solo and looking for Typescript folks to help me hack on something in the space of Thought-Action autonomous coding agents, type systems, and/or Mermaid / UML diagrammatic visualization.
+
+I have the SPELLBOUND project I’m interested in adding visualization capabilities to: <https://github.com/agentitive/spellbound>",2023-07-22 10:56:05
+Joel Alexander,Looking forward to it. :ok_hand::skin-tone-5: ,2023-07-22 10:35:59
+Benedict Neo,anyone going from Fremont area?,2023-07-22 10:20:20
+Akhil Dhavala,Hi everyone. I'm looking to join a team for today's hackathon. I work as a software engineer. Can help any team building something. Feel free to DM if you're recruiting teammates,2023-07-22 09:26:08
+Van Nguyen,"Hey all, I will bring an LLM-powered homebrew robotic dog if anyone wants to work on an autonomous IRL bot. I'll prob use gpt as an agent that dynamically learns how to walk the robot. 
+
+Looking forward to seeing what everyone builds!",2023-07-22 03:24:19
+Aditya Advani,"I'm genially working on my own homebrew codeinterpreter, probably will keep exploring that",2023-07-22 02:18:14
+Lei Zhao,"Hey everyone, Lei Zhao here. Couldn’t wait to meet y’all tmrw. I’m passion about 2ndBrain, and some idea related to this: 
+1. *KnwoledgeAgent*: extract *knowledge graph* out of a content (could be article, podcast, or even video) using *LLM*. Find similar or contradictory opinion across different contents. 
+2. *FactAgent*: scrape the fact based on predetermined source to add to 2ndBrain based on concept or keyword. 
+I might also open to other ideas if related to knowledge.  Looking forward for tmrw’s challenge. ",2023-07-22 00:11:30
+Sambuddha Basu,"Hey friends, excited to meet you all tomorrow! Let's make some cool stuff together :rocket:",2023-07-21 23:49:13
+Mike,"Hey, folks - it'll be cool to meet everyone! :) I'm at <https://code.lol|https://code.lol> if anyone wants to check out my work.",2023-07-21 23:41:16
+DCsan,"Has anyone played with TypeChat? tho its in the typescript ecosystem.
+<https://github.com/microsoft/TypeChat>",2023-07-21 22:07:20
+DCsan,"I wrote up a few ideas. Interested in working with other people if anyone wants to hack on something together tmrw?
+1. Dynamic Tutor
+2. Shopping Advisor
+3. Personal CRM Agent
+<https://github.com/dcsan/autoapps/blob/main/docs/AgentIdeas.md>",2023-07-21 22:06:30
+Lucas Davis,Hey. I'm Luke. I made <https://dangbot.com>,2023-07-21 21:16:28
+DCsan,<@U05JMRBFW4R> perhaps post an outline idea here if you’re looking teammates? (Me too should do this :v::skin-tone-2: ),2023-07-21 20:28:54
+Jeremy Nixon,<@U04FDHU8UUQ> has joined the channel,2023-07-21 19:26:38
+Milo Stone,<@U05JZ08A4HW> has joined the channel,2023-07-21 18:54:36
+Dmitry Kozlov,<@U05J69QMJTX> has joined the channel,2023-07-21 18:19:18
+Jacob Wright,<@U05JBL8SBJ8> has joined the channel,2023-07-21 18:06:13
+brian kitano,"Hi everyone! I'm Brian, I'm super excited for the hackathon tomorrow. At the Law x LLM hackathon, I learned a lot (<https://twitter.com/BrianKitano/status/1673861249069899776|takeaway thread>). If you don't already know how to prompt engineer, follow my &lt;10 min tips &amp; tricks interactive course at <https://www.agents.blue/|agents.blue> ! This hackathon, I'm hoping to get a small intelligence explosion to work; I've laid out my draft plan here: <https://github.com/bkitano/waller-project>
+
+Would love to collab, and can't wait to meet everyone!",2023-07-21 18:01:56
+Allen Liu,"Hi everyone, my name is Allen and nice to meet you folks.
+had few questions:
+how can we team up in such a short time? whats expected in the Demo? <@U04V2NPAF39>",2023-07-21 18:00:25
+Joey Wang,<@U05JYTMSG2U> has joined the channel,2023-07-21 17:59:37
+Henry Shi,<@U04V29V69NK> has joined the channel,2023-07-21 17:57:38
+brian kitano,<@U05GRE9N88J> has joined the channel,2023-07-21 17:55:45
+Matteo Palvarini,<@U05JBKNGU12> has joined the channel,2023-07-21 17:52:15
+Allen Liu,<@U05JMRBFW4R> has joined the channel,2023-07-21 17:49:51
+Rocky Yu,<@U04RNGL329F> has joined the channel,2023-07-21 17:45:11
+Anam Hira,<@U05JBJYAE12> has joined the channel,2023-07-21 17:45:08
+Bhav Ashok,<@U05JYT38S80> has joined the channel,2023-07-21 17:44:44
+Muneeb Saleem,<@U05J2G85C4W> has joined the channel,2023-07-21 17:44:22
+Joschka Braun,<@U05J2G7PA78> has joined the channel,2023-07-21 17:40:20
+Tony A. Liu,<@U05J2G1FJB0> has joined the channel,2023-07-21 17:37:03
+Van Nguyen,<@U05HUKNM5AT> has joined the channel,2023-07-21 17:35:37
+Alex Reibman,<@U04RZM7ESRW> has joined the channel,2023-07-21 17:35:34
+Hamudi Naanaa,<@U05J2G1KVV4> has joined the channel,2023-07-21 17:35:20
+Paul,<@U04QVGVL59V> has joined the channel,2023-07-21 17:34:59
+Rocky Yu,<@U04V2NPAF39> has joined the channel,2023-07-21 17:19:27
