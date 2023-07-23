@@ -1,2 +1,5 @@
 # secrets
 .env
+
+# keep the cached data private
+data/
