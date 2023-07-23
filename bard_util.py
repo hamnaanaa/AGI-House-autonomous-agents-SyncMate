@@ -18,7 +18,13 @@ def find_info_from_name(name: str):
 def find_info_from_names(names: str | list):
     if isinstance(names, list):
         names = ''.join(names)
-    prompt = ""
+    prompt = f"""
+        I am going to a meeting with these people {names}. Having in mind all their background, characters, aspirations and believes please give me
+        The summary of the crowd in a very informative for me way
+        A few options and approaches for me to speak so I inspire them with my idea, wish to build and help bring that future
+        Idea:
+        We have to build agent by agent, step by step the future where AI is efficiently and morally running the government
+    """
     return bard.get_answer(prompt)
 
 
