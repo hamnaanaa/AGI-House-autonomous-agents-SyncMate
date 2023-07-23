@@ -5,7 +5,7 @@ from slack_sdk.errors import SlackApiError
 import datetime
 import pandas as pd
 import constants
-
+import file_util
 
 # create a slack client
 slack_token = os.getenv("SLACK_BOT_TOKEN")
@@ -84,12 +84,12 @@ def get_chat_history(channel_id: str) -> list[str]:
     
     return message_results
 
-def send_message(user_id: str, message_text:str):
+def send_message(user_name, user_id, message_text:str="do you like to grab a coffee sometime."):
     try:
         # Open a direct message channel to the user
         response = client.conversations_open(users=user_id)
         dm_channel = response["channel"]["id"]
-
+        message_text = f'hi {user_name}, {message_text}'
         # Call the chat.postMessage method using the WebClient
         result = client.chat_postMessage(
             channel=dm_channel,
@@ -148,3 +148,9 @@ def write_to_csv(data, filename, field_name):
         # Write each row from the list to the CSV
         for row in data:
             csvwriter.writerow(row)
+
+
+# for user in users:
+#     send_message()
+
+print(file_util.read_csv('database/users_20230722_18:12:50.csv'))

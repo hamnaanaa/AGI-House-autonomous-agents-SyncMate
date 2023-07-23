@@ -15,7 +15,7 @@ def find_info_from_name(name: str):
     # prompt = 
     return bard.get_answer(f"help me search some key information about a person named {name}. If it's a common name, just return one of them.")['content']
 
-def find_info_from_names(names: str | list):
+def find_info_from_names(names):
     if isinstance(names, list):
         names = ''.join(names)
     prompt = f"""
@@ -51,5 +51,6 @@ def collect_users_info():
         
     
         
-collect_users_info()
+# collect_users_info()
+find_info_from_names(["Rocky Yu", "Eduardo Reis", "Robert Nowell", "Ron Bodkin", "Harrison Chase", "Alex Reibman", "Jack", "Saurabh Misra", "Div Garg", "Jackson Jesionowski", "Bill Sun", "Jazear Brooks", "Cameron mostoufi", "Lina Colucci", "greg tanaka", "Vishnu Rajan Tejus", "Lei Zhao", "Simon Suo", "Allen Liu", "Travis Cline", "Jeremy Nixon", "Gurkaran", "Mike", "Joel Alexander", "Benedict Neo", "Akhil Dhavala", "Van Nguyen", "Aditya Advani", "Sambuddha Basu", "DCsan", "Lucas Davis", "Dmitry Kozlov", "Jacob Wright", "brian kitano", "Joey Wang", "Henry Shi", "Matteo Palvarini", "Anam Hira", "Bhav Ashok", "Muneeb Saleem", "Joschka Braun", "Tony A. Liu", "Hamudi Naanaa", "Paul"])
     
